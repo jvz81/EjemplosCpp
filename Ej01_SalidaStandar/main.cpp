@@ -1,9 +1,8 @@
 #include <iostream>
 
-using namespace std;
-
 int main()
 {
-    cout << "Hello world!" << endl;
+    std::cout << "Hola, este es un mensaje para el usuario" << std::endl;
+    std::cout << "tiene en total dos lineas" << std::endl;
     return 0;
 }
